@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b95eab7290fdb84bb44d635d771af34, type: 3}
+  m_Name: Bow blue projectile
+  m_EditorClassIdentifier: 
+  itemID: b34119c4-7192-410f-931f-905055ba2d15
+  displayName: Bow of Justice
+  description: 
+  icon: {fileID: 21300000, guid: fb1e48043961d8f44948225f539a83bb, type: 3}
+  pickup: {fileID: 7901086090728601466, guid: c97d713b8e6e7da42911c3e405f51a12, type: 3}
+  stackable: 0
+  allowedEquipLocation: 5
+  animatorOverride: {fileID: 22100000, guid: 051251bde8bd03b44b5d8c83f3607a2e, type: 2}
+  equippedPrefab: {fileID: 8136927961314894216, guid: f824a7927ef3dea4cb19e7bbd8ecec1b,
+    type: 3}
+  weapon_damage: 5
+  percentageBonus: 0
+  weapon_range: 15
+  isRightHanded: 0
+  projectile: {fileID: 7655804103181847344, guid: 5e0a4badd57841546a95cc55bddca940,
+    type: 3}

@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b95eab7290fdb84bb44d635d771af34, type: 3}
+  m_Name: Unarmed
+  m_EditorClassIdentifier: 
+  itemID: a5b44b22-383a-421f-8837-4872f6a83897
+  displayName: kekw
+  description: 
+  icon: {fileID: 0}
+  pickup: {fileID: 0}
+  stackable: 0
+  allowedEquipLocation: 5
+  animatorOverride: {fileID: 0}
+  equippedPrefab: {fileID: 4484474538014620646, guid: 1b658b1c4a292554796ea2ffdfe55cc4,
+    type: 3}
+  weapon_damage: 3
+  percentageBonus: 0
+  weapon_range: 2
+  isRightHanded: 1
+  projectile: {fileID: 0}
